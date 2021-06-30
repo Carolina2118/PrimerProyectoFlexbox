@@ -8,20 +8,28 @@
     background: #000;
 }
 
-.menu {
-    background: #2F5D62;
+.Menu {
+    background: #F9ED69;
 }
 
 .logo {
-    background: #5E8B7E;
+    background: #F08A5D;
 }
 
 .nav {
-    background: #5E8B7E;
+    background: #F08A5D;
 }
 
 .social {
-    background: #5E8B7E;
+    background: #B83B5E;
+}
+
+.texto-principal {
+    background: #6A2C70;
+}
+
+.h1 {
+    background: ;
 }
 
 .section {
