@@ -16,24 +16,29 @@
 }
 
 .Menu {
-    background: #F9ED69;
+    background: #1C2B2D;
     display: flex;
     flex-flow: row nowrap;
+    height: 100px;
+    align-items: center;
 }
 
 .logo {
     background: #F08A5D;
     flex: 1 1 auto;
+    height: 30px;
 }
 
 .nav {
     background: #F08A5D;
-    flex: 1 1 auto;
+    flex: 5 1 auto;
+    height: 30px;
 }
 
 .social {
     background: #F08A5D;
     flex: 1 1 auto;
+    height: 30px;
 }
 
 .texto-principal {
