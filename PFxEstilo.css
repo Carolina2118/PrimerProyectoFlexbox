@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.header {
+.hearder {
     background: #000;
 }
 
@@ -21,19 +21,31 @@
 }
 
 .social {
-    background: #B83B5E;
+    background: #F08A5D;
 }
 
 .texto-principal {
-    background: #6A2C70;
+    background: #B83B5E;
 }
 
-.h1 {
-    background: ;
+h1 {
+    background: #6A2C70;
 }
 
 .section {
     background: #000;
+}
+
+.articulo {
+    background: #867AE9;
+}
+
+.article {
+    background: #FFF5AB;
+}
+
+.navegacion {
+    background: #FFCEAD;
 }
 
 .footer {
