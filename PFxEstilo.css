@@ -4,24 +4,36 @@
     box-sizing: border-box;
 }
 
+.padre {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
 .hearder {
     background: #000;
+    display: flex;
+    flex-flow: column nowrap;
 }
 
 .Menu {
     background: #F9ED69;
+    display: flex;
+    flex-flow: row nowrap;
 }
 
 .logo {
     background: #F08A5D;
+    flex: 1 1 auto;
 }
 
 .nav {
     background: #F08A5D;
+    flex: 1 1 auto;
 }
 
 .social {
     background: #F08A5D;
+    flex: 1 1 auto;
 }
 
 .texto-principal {
@@ -48,6 +60,18 @@ h1 {
     background: #FFCEAD;
 }
 
+.aside {
+    background: #FC9D9D;
+}
+
+.publicidad {
+    background: #900C3F;
+}
+
 .footer {
     background: #000;
+}
+
+.pie {
+    background: #CCAFAF;
 }
