@@ -77,7 +77,7 @@ h1 {
 }
 
 .publicidad {
-    background: #900C3F;
+    background: #0c2f90;
 }
 
 .footer {
@@ -89,4 +89,14 @@ h1 {
 .pie {
     background: #CCAFAF;
     width: 300px;
+}
+
+@media all and (max-width:800px) {
+    .section {
+        flex-direction: column;
+    }
+    .Menu {
+        flex-direction: column;
+        height: auto;
+    }
 }
