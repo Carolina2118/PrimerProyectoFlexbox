@@ -99,4 +99,20 @@ h1 {
         flex-direction: column;
         height: auto;
     }
+    .aside {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media all and (max-width: 600px) {
+    .articulo {
+        flex-direction: column;
+    }
+}
+
+@media all and (max-width:400px) {
+    .aside {
+        flex-direction: column;
+    }
 }
