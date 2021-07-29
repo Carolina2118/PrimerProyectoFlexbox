@@ -33,19 +33,19 @@
 .logo {
     background: #F08A5D;
     flex: 1 1 auto;
-    height: 30px;
+   
 }
 
 .nav {
     background: #F08A5D;
     flex: 5 1 auto;
-    height: 30px;
+    
 }
 
 .social {
     background: #F08A5D;
     flex: 1 1 auto;
-    height: 30px;
+ 
 }
 
 .texto-principal {
